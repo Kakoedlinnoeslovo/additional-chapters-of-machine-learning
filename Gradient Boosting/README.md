@@ -8,4 +8,7 @@ Splits on Continuous Variables:
 
 http://www.dcc.fc.up.pt/~ltorgo/PhD/th3.pdf
 
+
 ![Alt text](Losses.png?raw=true "Train(above), test(below)")
+
+Train(above), test(below)
